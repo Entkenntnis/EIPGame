@@ -1,1 +1,3 @@
-A tiny educational game: arrrg.de/eipgame
+# EIPGame
+
+A tiny educational game: https://arrrg.de/eipgame
